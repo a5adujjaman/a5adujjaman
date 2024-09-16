@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/a5adujjaman" target="blank"><img src="https://img.shields.io/twitter/follow/a5adujjaman?logo=twitter&style=for-the-badge" alt="a5adujjaman" /></a> </p>
 
-- 🌱 I’m currently learning **Network Security, Penetration Testing and Ethical Hacking**
+- 🌱 I’m currently working in **Network Security, Penetration Testing and Security Research**
 
 - 📝 I regularly write articles on [medium.com/@a5adujjaman](medium.com/@a5adujjaman)
 
-- 💬 Ask me about **Ethical Hacking, Fishing, Security, Bug Bounty**
+- 💬 Ask me about **Ethical Hacking, Bug Bounty, Penetration Testing, Graphic Designing, CMS**
 
 - 📫 How to reach me **asadujjamanasif46567@gmail.com**
 
