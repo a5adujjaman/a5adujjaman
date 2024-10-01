@@ -1,5 +1,4 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQH625dFU-rSAA/article-cover_image-shrink_720_1280/0/1618207402988?e=2147483647&v=beta&t=F4ZfQMFj0yYYo9WJiTo2bajDtJabFfvzAdeiv2qbQ3M)](https://rishavchanda.io)
-<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp3284844.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a5adujjaman&label=Profile%20views&color=0e75b6&style=flat" alt="a5adujjaman" /> </p>
 
