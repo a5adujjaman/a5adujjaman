@@ -1,11 +1,34 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQH625dFU-rSAA/article-cover_image-shrink_720_1280/0/1618207402988?e=2147483647&v=beta&t=F4ZfQMFj0yYYo9WJiTo2bajDtJabFfvzAdeiv2qbQ3M)](https://rishavchanda.io)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a5adujjaman&label=Profile%20views&color=0e75b6&style=flat" alt="a5adujjaman" /> </p>
+### It’s Asadujjaman Asif AKA a5adujjaman 🔥
 
-<p align="left"> <a href="https://twitter.com/a5adujjaman" target="blank"><img src="https://img.shields.io/twitter/follow/a5adujjaman?logo=twitter&style=for-the-badge" alt="a5adujjaman" /></a> </p>
+A hacker, bug bounty hunter, and penetration tester — that’s what I do.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a5adujjaman&show_icons=true&locale=en&layout=compact" alt="a5adujjaman" /></p>
+Trying to Improving not to Prove
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a5adujjaman&show_icons=true&locale=en" alt="a5adujjaman" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a5adujjaman&" alt="a5adujjaman" /></p>
+### 🕵️‍♂️ Connect with me:
+- [Hackerone](https://hackerone.com/a5adujjaman)
+- [LinkedIn](https://www.linkedin.com/in/a5adujjaman/)
+- [Twitter](https://x.com/a5adujjaman)
+- [Medium](https://medium.com/@a5adujjaman)
+
+---
+
+### 🖥️ **Professional Experience**
+
+- Security Engineer at [9AM Solution](https://9amsolution.com/)
+- Verified Rising Talent Freelancer at [Upwork]([https://pentestervibe.com/](https://www.upwork.com/freelancers/~01627bed155aeb8557))
+
+---
+
+### 👨‍💻 Stats
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=a5adujjaman&&show_icons=true&theme=radical"/>
+</a>
+</p>
+
+---
