@@ -1,10 +1,10 @@
 ---
 
-### It’s Md. Asadujjaman Asif(a5adujjaman) 🔥
+### It’s Md. Asadujjaman Asif AKA (a5adujjaman) 🔥
 
-A hacker, bug bounty hunter, and penetration tester — that’s what I do.
+A Hacker, Bug Bounty Hunter, and Penetration Tester — That’s what I do.
 
-Trying to Improving not to Prove
+Hack The Planet!
 
 ---
 
@@ -19,7 +19,7 @@ Trying to Improving not to Prove
 ### 🖥️ **Professional Experience**
 
 - Security Engineer at [9AM Solution](https://9amsolution.com/)
-- Verified Rising Talent Freelancer at [Upwork](https://www.upwork.com/freelancers/~01627bed155aeb8557)
+- Freelancer at [Upwork](https://www.upwork.com/freelancers/~01627bed155aeb8557)
 
 ---
 
